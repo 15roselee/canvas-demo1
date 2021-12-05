@@ -4,7 +4,12 @@
      box-sizing: border-box;
 }
  #canvas{
-    height: 100vh;
-     border: 1px solid red;
+    /* height: 100vh;
+    width: 100vw; */
+    display: block;
+     /* border: 1px solid red; */
      /* background-color: rgb(48, 42, 42); */
+ }
+ body{
+     /* border: 2px solid pink; */
  }
